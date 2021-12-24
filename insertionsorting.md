@@ -1,6 +1,6 @@
-# Sorting Sıralama Algoritması
+# Sorting Sorting
 
-## 1. Algoritma aşamaları
+## 1. Sorting Steps
 
 ```
 [22|27,16,2,18,6]
@@ -11,11 +11,11 @@
 [2,6,16,18,22,27]
 ```
 
-## 2.Big-O gösterimi
+## 2.Big-O Notation
 
 ```O(n^2)```
 
-## 3. Time complexity
+## 3. Time Complexity
 
 ```
 Average case: O(n^2) 
